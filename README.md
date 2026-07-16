@@ -21,19 +21,19 @@
 - [x] Checked unique values
 
 ## Phase 4: Data Cleaning
-- [ ] Removed unnecessary columns
-- [ ] Converted data types
-- [ ] Documented cleaning decisions
+- [x] Removed unnecessary columns
+- [x] Converted data types
+- [x] Documented cleaning decisions
 
 ## Phase 5: Exploratory Data Analysis
-- [ ] Univariate Analysis
-- [ ] Bivariate Analysis
-- [ ] Multivariate Analysis
+- [x] Univariate Analysis
+- [x] Bivariate Analysis
+- [x] Multivariate Analysis
 
 ## Phase 6: SQL Analysis
-- [ ] Database creation
-- [ ] Business queries
-- [ ] Advanced SQL
+- [x] Database creation
+- [x] Business queries
+- [x] Advanced SQL
 
 ## Phase 7: Power BI Dashboard
 - [ ] Data model
