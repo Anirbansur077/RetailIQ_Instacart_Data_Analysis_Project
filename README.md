@@ -15,44 +15,6 @@ The primary goal of this project is to transform raw transactional data into **a
 ## Link of the PowerBI Dashboard
 https://drive.google.com/file/d/1socXf9K0Yrkk_yF_urgHfOb1db9TVFIO/view?usp=drive_link
 
----
-
-# 📑 Table of Contents
-
-1. [Project Overview](#-project-overview)
-2. [Business Problem](#-business-problem)
-3. [Business Objectives](#-business-objectives)
-4. [Key Business Questions](#-key-business-questions)
-5. [Dataset Overview](#-dataset-overview)
-6. [Data Model](#-data-model)
-7. [Entity Relationship Diagram](#-entity-relationship-diagram)
-8. [Project Workflow](#-project-workflow)
-9. [Data Understanding](#-data-understanding)
-10. [Data Quality Assessment](#-data-quality-assessment)
-11. [Data Cleaning](#-data-cleaning)
-12. [Exploratory Data Analysis](#-exploratory-data-analysis)
-13. [SQL Business Analysis](#-sql-business-analysis)
-14. [Power BI Data Modeling](#-power-bi-data-modeling)
-15. [DAX Measures and KPIs](#-dax-measures-and-kpis)
-16. [Power BI Dashboard](#-power-bi-dashboard)
-17. [Dashboard Page 1 – Executive Dashboard](#-dashboard-page-1--executive-dashboard)
-18. [Dashboard Page 2 – Customer Insights](#-dashboard-page-2--customer-insights)
-19. [Dashboard Page 3 – Product Insights](#-dashboard-page-3--product-insights)
-20. [Dashboard Page 4 – Time & Ordering Analysis](#-dashboard-page-4--time--ordering-analysis)
-21. [Key Business Insights](#-key-business-insights)
-22. [Business Recommendations](#-business-recommendations)
-23. [Business Value of the Project](#-business-value-of-the-project)
-24. [Tools and Technologies](#-tools-and-technologies)
-25. [Project Structure](#-project-structure)
-26. [Project Deliverables](#-project-deliverables)
-27. [How to Reproduce the Project](#-how-to-reproduce-the-project)
-28. [Project Limitations](#-project-limitations)
-29. [Future Improvements](#-future-improvements)
-30. [Skills Demonstrated](#-skills-demonstrated)
-31. [Conclusion](#-conclusion)
-32. [Author](#-author)
-
----
 
 # 📌 Project Overview
 
