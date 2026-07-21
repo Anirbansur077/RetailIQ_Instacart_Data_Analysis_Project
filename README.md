@@ -12,6 +12,9 @@ The complete project follows a real-world analytics workflow:
 
 The primary goal of this project is to transform raw transactional data into **actionable business insights** that can support customer retention, personalized marketing, product recommendations, inventory optimization, product bundling, and operational planning.
 
+## Link of the PowerBI Dashboard
+https://drive.google.com/file/d/1socXf9K0Yrkk_yF_urgHfOb1db9TVFIO/view?usp=drive_link
+
 ---
 
 # 📑 Table of Contents
