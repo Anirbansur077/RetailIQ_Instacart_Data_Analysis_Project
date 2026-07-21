@@ -345,3 +345,26 @@ aisles
    │ 1 : Many
    ▼
 products
+```
+
+---
+
+# 📊 Power BI Dashboard
+
+The interactive Power BI dashboard is available [here](https://drive.google.com/file/d/1socXf9K0Yrkk_yF_urgHfOb1db9TVFIO/view?usp=drive_link). The screenshots below provide a preview of its four report pages.
+
+## Dashboard Page 1 – Executive Dashboard
+
+![Executive Dashboard](images/powerbi_images/01_pbi_executive_dashboard.png)
+
+## Dashboard Page 2 – Customer Insights
+
+![Customer Insights](images/powerbi_images/02_pbi_customer_insights.png)
+
+## Dashboard Page 3 – Product Insights
+
+![Product Insights](images/powerbi_images/03_product_insights.png)
+
+## Dashboard Page 4 – Time & Ordering Analysis
+
+![Time and Ordering Analysis](images/powerbi_images/04_time_ordering_analysis.png)
